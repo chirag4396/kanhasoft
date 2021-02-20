@@ -1,0 +1,6 @@
+[submodule "kanhasoft-frontend"]
+	path = kanhasoft-frontend
+	url = git@github.com:chirag4396/kanhasoft-frontend.git
+[submodule "kanhasoft-backend"]
+	path = kanhasoft-backend
+	url = git@github.com:chirag4396/kanhasoft-backend.git
